@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "S8YOaZ9Jdnmy43KvMuYheXPt/vZDF1GY3KZujw2f/10=",
+  "Source": "course_signalr",
+  "BasePath": "_content/course_signalr",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "course_signalr\\wwwroot",
+      "Source": "course_signalr",
+      "ContentRoot": "C:\\Users\\juanj\\Downloads\\course-signalr\\wwwroot\\",
+      "BasePath": "_content/course_signalr",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\juanj\\Downloads\\course-signalr\\wwwroot\\index.html",
+      "SourceId": "course_signalr",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\juanj\\Downloads\\course-signalr\\wwwroot\\",
+      "BasePath": "_content/course_signalr",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\juanj\\Downloads\\course-signalr\\wwwroot\\main.45097686998062ce30cb.js",
+      "SourceId": "course_signalr",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\juanj\\Downloads\\course-signalr\\wwwroot\\",
+      "BasePath": "_content/course_signalr",
+      "RelativePath": "main.45097686998062ce30cb.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\main.45097686998062ce30cb.js"
+    }
+  ]
+}
