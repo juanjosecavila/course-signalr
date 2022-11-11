@@ -5,11 +5,17 @@ using Microsoft.AspNetCore.SignalR;
 
 public class ViewHub : Hub
 {
-    public static int ViewCount {get;set;} = 0;
+    public static int ViewCount { get; set; } = 0;
 
-    public async Task NotifyWatching(){
+    public async Task NotifyWatching()
+    {
         ViewCount++;
 
         await this.Clients.All.SendAsync("viewCountUpdate", ViewCount);
+    }
+
+    public string GetFullName(string firstName, string lastName)
+    {
+        return $"{firstName} {lastName}";
     }
 }
