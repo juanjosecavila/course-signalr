@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "S8YOaZ9Jdnmy43KvMuYheXPt/vZDF1GY3KZujw2f/10=",
+  "Hash": "QcQEnViOZXT+w/JO9sqdh1sM7xCk0e8lG3r4386ktIM=",
   "Source": "course_signalr",
   "BasePath": "_content/course_signalr",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "course_signalr\\wwwroot",
       "Source": "course_signalr",
-      "ContentRoot": "C:\\Users\\juanj\\Downloads\\course-signalr\\wwwroot\\",
+      "ContentRoot": "C:\\Code\\juanjosecavila\\course-signalr\\wwwroot\\",
       "BasePath": "_content/course_signalr",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\juanj\\Downloads\\course-signalr\\wwwroot\\index.html",
+      "Identity": "C:\\Code\\juanjosecavila\\course-signalr\\wwwroot\\index.html",
       "SourceId": "course_signalr",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\juanj\\Downloads\\course-signalr\\wwwroot\\",
+      "ContentRoot": "C:\\Code\\juanjosecavila\\course-signalr\\wwwroot\\",
       "BasePath": "_content/course_signalr",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\juanj\\Downloads\\course-signalr\\wwwroot\\main.45097686998062ce30cb.js",
+      "Identity": "C:\\Code\\juanjosecavila\\course-signalr\\wwwroot\\main.45097686998062ce30cb.js",
       "SourceId": "course_signalr",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\juanj\\Downloads\\course-signalr\\wwwroot\\",
+      "ContentRoot": "C:\\Code\\juanjosecavila\\course-signalr\\wwwroot\\",
       "BasePath": "_content/course_signalr",
       "RelativePath": "main.45097686998062ce30cb.js",
       "AssetKind": "All",
