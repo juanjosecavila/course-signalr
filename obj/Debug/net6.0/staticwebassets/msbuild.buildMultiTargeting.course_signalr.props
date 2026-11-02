@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\course_signalr.props" />
-</Project>
